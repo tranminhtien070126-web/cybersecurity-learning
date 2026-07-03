@@ -8,3 +8,8 @@
 - Biết cp
 - Biết mv
 - Biết rm
+## Terminal Commands
+
+- pwd: Hiển thị thư mục hiện tại
+- clear: Xóa màn hình Terminal
+- history: Xem lịch sử lệnh
