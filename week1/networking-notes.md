@@ -259,25 +259,15 @@ UDP
 
 ✔ Độ trễ thấp
 
-HTTP
+HTTP Port 80
 
-Port 80
+HTTPS Port 443
 
-HTTPS
+SSH Port 22
 
-Port 443
+DNS Port 53
 
-SSH
-
-Port 22
-
-DNS
-
-Port 53
-
-MySQL
-
-Port 3306
+MySQL Port 3306
 
 Localhost
 
