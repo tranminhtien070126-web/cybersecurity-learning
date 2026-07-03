@@ -284,3 +284,20 @@ nmap
 Xác định phiên bản
 
 nmap -sV
+Tại sao gửi file nên dùng TCP mà chơi game online thường dùng UDP?
+->TCP sẽ gửi lại gói tin nếu bị mất, còn UDP không gửi lại nên nhanh hơn.
+
+Port là gì? IP khác Port như thế nào?
+->IP xác định máy tính trên mạng.
+->Port xác định dịch vụ/chương trình đang chạy trên máy tính đó.
+
+Tại sao 0.0.0.0:8080 thường rủi ro hơn 127.0.0.1:8080?
+->0.0.0.0 nghĩa là dịch vụ lắng nghe trên tất cả các địa chỉ IP của máy.
+Do đó:
+Máy khác trong mạng có thể truy cập (nếu firewall cho phép).
+
+ss -tuln dùng để làm gì?
+->ss -tuln dùng để xem các socket TCP/UDP đang lắng nghe (LISTEN) hoặc đang hoạt động trên hệ thống Linux.
+
+nmap -sV khác gì nmap?
+->nmap -sV không xem phiên bản của port, mà xác định phiên bản của dịch vụ đang chạy trên port.
