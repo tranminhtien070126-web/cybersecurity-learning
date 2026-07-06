@@ -63,3 +63,9 @@ Một số Header quan trọng:
 
 - Lưu trên Server.
 - Quản lý trạng thái đăng nhập.
+
+<img width="952" height="332" alt="image" src="https://github.com/user-attachments/assets/e606320a-f3e0-4667-aac9-f51cc276f752" />
+<img width="1000" height="608" alt="image" src="https://github.com/user-attachments/assets/1ce079f5-2183-4759-ad2d-4172477304bb" />
+<img width="756" height="751" alt="image" src="https://github.com/user-attachments/assets/27c4a5c5-27d8-4707-b69c-b9e849921e69" />
+<img width="947" height="697" alt="image" src="https://github.com/user-attachments/assets/236ecaa9-d979-46ff-bcd8-98241c281a29" />
+<img width="852" height="415" alt="image" src="https://github.com/user-attachments/assets/91e16adb-e360-47dc-9049-62f0bfafe8df" />
